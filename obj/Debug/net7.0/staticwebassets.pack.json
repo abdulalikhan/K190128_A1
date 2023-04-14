@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\js\\terminal.js",
+      "PackagePath": "staticwebassets\\js\\terminal.js"
+    },
+    {
       "Id": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

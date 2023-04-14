@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rC7F80V0q5PCi6psLVtihzXRdDjG8/j58vPIPOktm8k=",
+  "Hash": "fBOijpxPpk9qjWIxLnXGBYPz3HnzbprPRnW32pxQ2A0=",
   "Source": "K190128_A1",
   "BasePath": "_content/K190128_A1",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\js\\terminal.js",
+      "SourceId": "K190128_A1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\",
+      "BasePath": "_content/K190128_A1",
+      "RelativePath": "js/terminal.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\terminal.js"
     },
     {
       "Identity": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
