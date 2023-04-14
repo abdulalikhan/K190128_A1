@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fBOijpxPpk9qjWIxLnXGBYPz3HnzbprPRnW32pxQ2A0=",
+  "Hash": "reyr4JUey63OrnNPRyTGLGAzyWr2a3la/TsVUJy/A3Q=",
   "Source": "K190128_A1",
   "BasePath": "_content/K190128_A1",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\K190128_A1.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\css\\education.css",
+      "SourceId": "K190128_A1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\",
+      "BasePath": "_content/K190128_A1",
+      "RelativePath": "css/education.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\education.css"
+    },
+    {
       "Identity": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\css\\home.css",
       "SourceId": "K190128_A1",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\js\\search_filter.js",
+      "SourceId": "K190128_A1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\",
+      "BasePath": "_content/K190128_A1",
+      "RelativePath": "js/search_filter.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\search_filter.js"
     },
     {
       "Identity": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\js\\terminal.js",

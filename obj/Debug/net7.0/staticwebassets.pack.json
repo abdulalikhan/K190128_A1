@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\K190128_A1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\css\\education.css",
+      "PackagePath": "staticwebassets\\css\\education.css"
+    },
+    {
       "Id": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
       "Id": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\js\\search_filter.js",
+      "PackagePath": "staticwebassets\\js\\search_filter.js"
     },
     {
       "Id": "C:\\Users\\AAK\\Desktop\\DevOps\\K190128_A1\\wwwroot\\js\\terminal.js",

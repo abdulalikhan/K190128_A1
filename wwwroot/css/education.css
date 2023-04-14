@@ -1,0 +1,42 @@
+﻿.timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.timeline-bar {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 100%;
+    background-color: #4299e1;
+}
+
+.timeline-container {
+    position: relative;
+    margin: 50px 0;
+}
+
+.timeline-content {
+    position: relative;
+    margin-left: 50px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}
+
+    .timeline-content::before {
+        content: "";
+        position: absolute;
+        left: -25px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #4299e1;
+        z-index: -1;
+    }
